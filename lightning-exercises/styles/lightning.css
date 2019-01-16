@@ -1,0 +1,18 @@
+.committee {
+    padding: 10px;
+    border: 1px dotted black;
+    border-radius: 5px;
+}
+
+.candidate {
+    background-color:  lightyellow;
+}
+
+.candidate__affiliation {
+    background-color: firebrick;
+    color: snow;
+}
+.candidate__name {
+    font-weight: bold;
+    font-size: 18px;
+}

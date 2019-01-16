@@ -1,0 +1,23 @@
+.pageHeader{
+    display: flex;
+    justify-content: center;
+    text-emphasis: bold;
+}
+
+.list {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    box-sizing: border-box;
+    position: fixed;
+    left: 30%;
+    width: 50%;
+}
+
+.shop{
+    display: block;
+    box-sizing: border-box;
+    width: 30%;
+    justify-content: right;
+    margin: 0 7px;
+}
